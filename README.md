@@ -8,7 +8,7 @@ This project utilize blockchain technology to curb counterfeiting and fraud in s
 
 - Ethereum Blockchain
 - Solidity
-_ Truffle
+- Truffle
 
 ## Deploy
 
