@@ -28,7 +28,7 @@ contract SteelProcessManager {
         bytes32[] productAssetIdList;
         // Output Amount
         uint num;
-        // Process⽇期
+        // Process Date
         uint date;
     }
 
