@@ -60,7 +60,7 @@ contract SteelAssetManager is Ownable {
         uint regDate;
         // Asset Source 0 : Registration；1 : Trade；2 : Process
         uint8 origin;
-        // Source String Trade/加⼯
+        // Source String Trade/Process
         bytes32 originId;
         // Burn or Not
         bool isDel;
